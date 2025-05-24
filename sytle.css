@@ -1,5 +1,5 @@
 .container{
-    width:400px;
+    width:350px;
     height:400px;
     border:2px solid black;
     margin-left: 40%;
@@ -20,7 +20,7 @@
 }
 i{
     font-size: 30px;
-    padding:10px;
+    padding:5px;
 }
 .bot{
     background-color: azure;
@@ -35,7 +35,6 @@ i{
 }
 .right{
     background-color: antiquewhite;
-    height: 25px;
     border-radius:20px;
     margin-left: 200px;
     font-size: 20px;
@@ -45,7 +44,6 @@ i{
 }
 .left{
     background-color: lightblue;
-    height: 25px;
     border-radius:20px;
     margin-right: 200px;
     font-size: 20px;
